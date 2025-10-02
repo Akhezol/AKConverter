@@ -1,6 +1,6 @@
 # 🎉 AKConverter
 
-**AKConverter** is a Windows desktop application that allows you to easily convert various file and media formats.  
+**AKConverter** is a Windows desktop application that allows you to easily convert various file and media formats.The language is not specified because it is in a rar file. This is a C# program.
 
 ---
 
