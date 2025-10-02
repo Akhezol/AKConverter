@@ -38,7 +38,7 @@ Some conversions require **FFmpeg**:
 - FFmpeg (required for some conversions)  
 - LibreOffice (recommended for DOCX → PDF conversion)
 
-##Supported Conversions
+Supported Conversions
 
 - PNG → JPG
 - JPG → PNG
