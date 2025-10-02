@@ -40,21 +40,21 @@ Some conversions require **FFmpeg**:
 
 ##Supported Conversions
 
-PNG → JPG
-JPG → PNG
-WEBP → PNG (FFmpeg required)
-GIF → PNG (first frame only)
-BMP → PNG
-ICO → PNG (first icon only)
-MP4 → MP3 (FFmpeg required)
-MP3 → WAV (FFmpeg required)
-AVI → MP4 (FFmpeg required)
-ZIP → Folder (extract files)
-Folder → ZIP (compress folder)
-CSV → XLSX
-XLSX → CSV
-TXT → JSON (each line as array element)
-DOCX → PDF (LibreOffice recommended) 
+- PNG → JPG
+- JPG → PNG
+- WEBP → PNG (FFmpeg required)
+- GIF → PNG (first frame only)
+- BMP → PNG
+- ICO → PNG (first icon only)
+- MP4 → MP3 (FFmpeg required)
+- MP3 → WAV (FFmpeg required)
+- AVI → MP4 (FFmpeg required)
+- ZIP → Folder (extract files)
+- Folder → ZIP (compress folder)
+- CSV → XLSX
+- XLSX → CSV
+- TXT → JSON (each line as array element)
+- DOCX → PDF (LibreOffice recommended) 
 
 ---
 
