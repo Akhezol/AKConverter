@@ -31,7 +31,7 @@ Some conversions require **FFmpeg**:
 
 ---
 
-## ✅ Requirements
+✅ Requirements
 
 - Windows 10 or higher  
 - .NET Framework 4.8 (or compatible)  
